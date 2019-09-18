@@ -1,5 +1,5 @@
 {
-  "name": "codexten/yii-migration",
+  "name": "codexten/yii-db-migration",
   "description": "Yii migration",
   "require": {
      "codexten/yii-app-console": "~2.0.0",
