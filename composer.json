@@ -2,7 +2,7 @@
   "name": "codexten/yii-db-migration",
   "description": "Yii migration",
   "require": {
-     "codexten/yii-app-console": "~2.0.0",
+     "codexten/yii-app-console": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
