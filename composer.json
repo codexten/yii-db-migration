@@ -6,7 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "codexten\\yii\\migration\\": "src"
+      "codexten\\yii\\db\\migration\\": "src"
     }
   },
   "extra": {
