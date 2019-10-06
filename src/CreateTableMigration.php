@@ -13,16 +13,12 @@ use yii\di\Instance;
  */
 abstract class CreateTableMigration extends Migration
 {
-    /**
-     * @var string
-     */
-    public $migrationDb = 'mineDb';
 
     public $table;
 
     public function init()
     {
-        $this->db = Instance::ensure($this->migrationDb, Connection::class);
+//        $this->db = Instance::ensure($this->migrationDb, Connection::class);
         parent::init();
     }
 
